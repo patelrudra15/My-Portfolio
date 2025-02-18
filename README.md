@@ -1,2 +1,2 @@
 # My-Portfolio
-myportfoliodetails.netlify.app
+https://myportfoliodetails.netlify.app
