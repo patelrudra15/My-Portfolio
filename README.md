@@ -1,2 +1,2 @@
 # My-Portfolio
-To check my Portfolio : myportfoliodetails.netlify.app
+myportfoliodetails.netlify.app
